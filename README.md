@@ -3,7 +3,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=sashatemchur&style=flat">
 
-## I'm still a beginner programmer. I'm going into the future by learning new programming languages.
+## I am a beginner developer who is actively learning and working on web projects. I am interested in both frontend and backend development, enjoy understanding how things work under the hood, and building practical solutions for real-world tasks.
+
+## 🛠️ My Core Skills
+
+## HTML / CSS — page layout, responsive design
+
+## JavaScript — basic logic, working with events and APIs
+
+## Python — backend development, logic, automation, scripting
+
+## Django — templates, galleries, database interaction
+
+## Telegram Bots — building bots in Python, process automation
+
+## Crypto / Trading Bots — Telegram bots for cryptocurrency workflows (exchange APIs, automation)
+
+## Linux / VPS — basic server administration, project deployment
+
+## Nginx + Gunicorn — running and maintaining Django projects
+
+## Git / GitHub — version control and repository management
 
 
 
